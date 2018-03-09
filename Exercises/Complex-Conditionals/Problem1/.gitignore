@@ -291,4 +291,4 @@ __pycache__/
 *.config
 *.csproj
 *.gitkeep
-.*gitignore
+*.gitignore
