@@ -292,3 +292,6 @@ __pycache__/
 *.csproj
 *.gitkeep
 *.gitignore
+Properties
+obj
+bin
